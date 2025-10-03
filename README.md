@@ -17,12 +17,12 @@ proyectos y mis intereses.
 | Proyecto | Descripción | Vista previa |
 | ----------- | ----------- | ----------- | 
 | [Base De Datos](https://github.com/FranciscoAve/BasesDeDatos.git) | Proyecto académico donde se utilizaron conocimientos de SQL para poder simular una base de datos de una empresa de eventos | - |
-| [Sistema de control de finanzas](https://github.com/CelsoCastro07/ProyectoPOO) | Colaborador en proyecto académico de un programa que permite al usuario el control de sus finanzas personales con interfaz amigable | - |
+| [Sistema de control de finanzas](https://github.com/CelsoCastro07/ProyectoPOO) | Colaborador en proyecto académico de un programa que permite al usuario el control de sus finanzas personales con interfaz amigable | ![Pantalla inicio de sesión de proyecto] |
 
 ## Intereses 🎯
 * Programación
 * Deportes
-* Comida
+* Idiomas
 
 ## Contacto 🔗
 * **Correo:** favendan@espol.edu.ec
