@@ -16,9 +16,9 @@ proyectos y mis intereses.
 ## Proyectos 💻
 | Proyecto | Descripción | Vista previa |
 | ----------- | ----------- | ----------- | 
-| [Base De Datos - Empresa de Eventos](https://github.com/FranciscoAve/BasesDeDatos.git) | Proyecto académico donde se utilizaron conocimientos de ***SQL*** para poder simular una base de datos de una empresa de eventos | - |
+| [Base De Datos - Empresa de Eventos](https://github.com/FranciscoAve/BasesDeDatos.git) | Proyecto académico donde se utilizaron conocimientos de ***SQL*** para poder simular una base de datos de una empresa de eventos | ![Vista inicial de código](imagenes/VistaPrevia3.png) |
 | [Sistema de control de finanzas](https://github.com/CelsoCastro07/ProyectoPOO) | Colaborador en proyecto académico de un programa usando ***Java*** que permite al usuario el control de sus finanzas personales con interfaz amigable | ![Pantalla inicio de sesión de proyecto](imagenes/VistaPrevia1.jpeg) |
-| [Predicción nota estudiantil](https://github.com/leno-mpm/Proyecto-Estad-stica) | Colaborador en proyecto académico de Estadística donde, usando el ***lenguaje de programación R*** y mediante regresión lineal se predice la nota de la asignatura Estadística | - |
+| [Predicción nota estudiantil](https://github.com/leno-mpm/Proyecto-Estad-stica) | Colaborador en proyecto académico de Estadística donde, usando el ***lenguaje de programación R*** y mediante regresión lineal se predice la nota de la asignatura Estadística | ![Nota predicta dentro de app](imagenes/VistaPrevia2.jpeg) |
 
 ## Intereses 🎯
 * Programación
