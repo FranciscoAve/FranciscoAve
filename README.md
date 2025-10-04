@@ -29,10 +29,10 @@ He trabajado con distintos lenguajes, frameworks y herramientas:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-He utilizado **Java y JavaFX** para desarrollar aplicaciones con interfaces gráficas,  
-**SQL** para modelar bases de datos relacionales,  
-**R y Python (con Pandas)** para análisis estadístico y de datos,  
-además de **Arduino IDE, C y Android Studio** para iniciarme en proyectos de hardware y aplicaciones móviles.
+He utilizado **Java y JavaFX** para desarrollar aplicaciones con interfaces gráficas.
+**SQL** para modelar bases de datos relacionales.
+**R y Python (con Pandas)** para análisis estadístico y de datos.  
+Además de **Arduino IDE, C y Android Studio** para iniciarme en proyectos de hardware y aplicaciones móviles.
 
 
 ## Contacto 🔗
